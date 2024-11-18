@@ -34,6 +34,7 @@ install.packages(c("tidyverse", "broom", "sandwich", "stargazer", "estimatr", "g
 
 # Suggested citation 
 > Habersack, F. (forthcoming). “Carrots and sticks: How voter loyalty and electoral opportunities shape parties’ policy priorities in Europe”. *European Journal of Political Research*.
+> DOI: 10.1111/1475-6765.12744
 
 
 
