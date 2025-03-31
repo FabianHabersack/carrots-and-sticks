@@ -1,8 +1,7 @@
 # Carrots and Sticks
 
 
-[![Twitter URL](https://img.shields.io/twitter/follow/FabianHabersack?style=social)](https://twitter.com/FabianHabersack)
-
+[![Follow me on Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/fabianhabersack.bsky.social)
 
 
 This repository contains the datasets and R Script for all main analyses presented in the article and the appendix of “Carrots and sticks: How voter loyalty and electoral opportunities shape parties’ policy priorities in Europe”. The files include:
@@ -39,11 +38,9 @@ install.packages(c("tidyverse", "broom", "sandwich", "stargazer", "estimatr", "g
 
 
 ## Contact
-For questions or issues, feel free to reach out:
 
 **Fabian Habersack**  
 *Postdoctoral Researcher*  
 Department of Political Science, University of Innsbruck  
 
 📧 [fabian.habersack@uibk.ac.at](mailto:fabian.habersack@uibk.ac.at)  
-🐙 [GitHub: @FabianHabersack](https://github.com/FabianHabersack)
