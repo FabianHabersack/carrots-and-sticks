@@ -4,7 +4,7 @@
 
 
 
-This repository contains the datasets and R Script for all main analyses presented in the article and the appendix of “Carrots and sticks: How voter loyalty and electoral opportunities shape parties’ policy priorities in Europe”. The files include:
+This repository contains the replication data and script for the article “Carrots and sticks: How voter loyalty and electoral opportunities shape parties’ policy priorities in Europe”, published in EJPR. The files include:
 - **CSES_MARPOR.RDS:** Data from *CSES* ([IMD](https://doi.org/10.7804/cses.imd.2024-02-27)) on parties' voter loyalty and electoral opportunities based on vote choice and party likability scores, merged with data from *MARPOR* ([version 2024a](https://manifesto-project.wzb.eu/datasets)) on parties' issue focus.
 - **EES_MARPOR.RDS:** Data from *EES* ([1999](https://doi.org/10.17026/dans-z9j-vy6m); [2004](https://doi.org/10.4232/1.10086); [2009](https://doi.org/10.4232/1.11760); [2014](https://doi.org/10.4232/1.12628); [2019](https://doi.org/10.4232/1.13473)) on parties' voter loyalty and electoral opportunities based on vote choice and propensity to vote, merged with data from *MARPOR* ([version 2024a](https://manifesto-project.wzb.eu/datasets)) on parties' issue focus.
 - **REPLICATION_SCRIPT.R:** The R Script, documenting the data import and modeling.
